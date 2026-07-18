@@ -76,9 +76,12 @@ anywhere in the US except IL, CA, NY.
 
 Step 1 — Inbox sweep: Search my Gmail from the last 30 days for broker
 emails about MHP or RV park deals (keywords: "mobile home park", "MHP",
-"RV park", "off market", "OM"). For each, extract: park name, location,
-pad count, price/cap rate if stated, broker name + contact, and whether
-seller financing or creative terms are mentioned.
+"RV park", "off market", "OM"). Include the Promotions category
+(category:promotions) — several real brokers and saved-search alerts
+(e.g. MobileHomeParkStore.com) land there and get missed by default
+searches. For each, extract: park name, location, pad count,
+price/cap rate if stated, broker name + contact, and whether seller
+financing or creative terms are mentioned.
 
 Step 2 — Web search: Search the web for MHP/RV park off-market sourcing
 channels — owner lists, Mobile Home University marketplace, RV Park

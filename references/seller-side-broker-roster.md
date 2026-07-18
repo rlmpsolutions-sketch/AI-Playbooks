@@ -9,11 +9,14 @@
 | **Marcus & Millichap** | Cole Burchill / Glenn Esterson (Esterson MHC Team); Edgar Martinez (Natl. Manufactured Home Communities Group); Jonathan Bench | Mixed | Spring City MHP & RV (TN) — live lead, awaiting financing answer |
 | **MHPValue** | Jamari Ridore jamari@; Derrick S. derricks@; Logan logan@ | Unconfirmed | Dakota MH & RV Park, Branson View RV Park (MO) |
 | **NAI OHB** | Jesse Pine jessepine@naiohb.com | Unconfirmed | Regular digest; also reports closed/under-contract status — useful market intel even when not transacting |
-| **Wolf Commercial RE** | Andrew Koller, Joseph Fox (wolfcre.com) | Unconfirmed | Quakerwoods Campground inquiry, live thread |
+| **Wolf Commercial RE** | Andrew Koller, Joseph Fox (wolfcre.com) | Unconfirmed | Quakerwoods Campground — **disqualified 2026-07-18, seller won't accept seller carry.** Keep contact for future listings. |
 | themhpx.com | Sameer | Unconfirmed | Seen once, co-brokering with The MHP Broker |
 | Parks and Places | sales@parksandplaces.com is **dead** (550 blocked) | — | Use (616) 301-0765 or parksandplaces.com/contact/ instead |
 | OfferMarket (offermarket.us) | hello@offermarket.us | Markets itself as an off-market listings platform | Never engaged — worth a look |
 | Crexi saved searches | automated | — | Already running: FL MHP search + individual property watchlist |
+| **MobileHomeParkStore.com** | contact@mobilehomeparkstore.com | Saved-search alerts | Shows cap rate + financing method directly in the email, unlike Crexi/LoopNet (which block automated access). Only a PA saved search currently active — worth expanding to other target states. |
+
+**Note:** several MHP/RV brokers were landing in the Gmail Promotions category and got missed by earlier sweeps (`category:promotions` was excluded by default). Future sweeps should check Promotions explicitly.
 
 ## Standing asks worth repeating each sourcing sweep
 
