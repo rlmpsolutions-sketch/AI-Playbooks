@@ -88,10 +88,16 @@ channels — owner lists, Mobile Home University marketplace, RV Park
 Store, niche broker/investor groups — for parks that might be available
 off-market in states other than IL, CA, NY.
 
-Step 3 — Listing sites: Search LoopNet, Crexi, and other commercial
-listing sites for MHP/RV parks for sale. Keep listings where the
-description mentions or doesn't rule out seller financing/creative
-terms. Drop anything explicitly "cash only" or "no seller financing."
+Step 3 — Listing sites: Search LoopNet, Crexi, MobileHomeParkStore.com,
+and other commercial listing sites for MHP/RV parks for sale.
+MobileHomeParkStore.com can be browsed directly by county/state
+(mobilehomeparkstore.com/mobile-home-parks-for-sale/[state]/[county])
+and shows cap rate + purchase method (cash, new loan, seller
+financing) right on the listing — check it first since it isn't
+blocked to automated access the way Crexi/LoopNet are. Keep listings
+where the description mentions or doesn't rule out seller
+financing/creative terms. Drop anything explicitly "cash only" or "no
+seller financing."
 
 Step 4 — Consolidate into one tracker with columns: Park Name | State |
 Pads | Asking Price | Cap Rate (if known) | Financing Signal | Source

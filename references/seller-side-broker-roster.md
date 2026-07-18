@@ -14,7 +14,7 @@
 | Parks and Places | sales@parksandplaces.com is **dead** (550 blocked) | — | Use (616) 301-0765 or parksandplaces.com/contact/ instead |
 | OfferMarket (offermarket.us) | hello@offermarket.us | Markets itself as an off-market listings platform | Never engaged — worth a look |
 | Crexi saved searches | automated | — | Already running: FL MHP search + individual property watchlist |
-| **MobileHomeParkStore.com** | contact@mobilehomeparkstore.com | Saved-search alerts | Shows cap rate + financing method directly in the email, unlike Crexi/LoopNet (which block automated access). Only a PA saved search currently active — worth expanding to other target states. |
+| **MobileHomeParkStore.com** | contact@mobilehomeparkstore.com | Saved-search alerts + directly browsable by county/state | Shows cap rate + financing method directly on each listing, unlike Crexi/LoopNet (which block automated access). Browse directly at mobilehomeparkstore.com/mobile-home-parks-for-sale/[state]/[county]. Only a PA saved search currently active — worth expanding to other target states. |
 
 **Note:** several MHP/RV brokers were landing in the Gmail Promotions category and got missed by earlier sweeps (`category:promotions` was excluded by default). Future sweeps should check Promotions explicitly.
 
