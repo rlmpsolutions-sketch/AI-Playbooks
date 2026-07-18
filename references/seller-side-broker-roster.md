@@ -15,6 +15,9 @@
 | OfferMarket (offermarket.us) | hello@offermarket.us | Markets itself as an off-market listings platform | Never engaged — worth a look |
 | Crexi saved searches | automated | — | Already running: FL MHP search + individual property watchlist |
 | **MobileHomeParkStore.com** | contact@mobilehomeparkstore.com | Saved-search alerts + directly browsable by county/state | Shows cap rate + financing method directly on each listing, unlike Crexi/LoopNet (which block automated access). Browse directly at mobilehomeparkstore.com/mobile-home-parks-for-sale/[state]/[county]. Only a PA saved search currently active — worth expanding to other target states. |
+| **RVParkStore.com** | — | Direct browse | Sister site to MobileHomeParkStore.com, RV-park-specific |
+| **BizBuySell.com** | — | Direct browse (Mobile Home Parks + Campgrounds/RV Parks sections) | Business-marketplace listings skew toward smaller owner-operators — more often open to creative terms than institutional broker listings |
+| **Realmo.com** | — | Direct browse | Another dedicated MHP/RV marketplace |
 
 **Note:** several MHP/RV brokers were landing in the Gmail Promotions category and got missed by earlier sweeps (`category:promotions` was excluded by default). Future sweeps should check Promotions explicitly.
 
