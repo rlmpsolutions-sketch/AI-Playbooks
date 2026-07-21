@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Property Investor Dashboard</title>
+<link rel="stylesheet" href="styles.css" />
+<script src="vendor/chart.umd.js"></script>
+</head>
+<body>
+<div class="app">
+
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="brand-mark">IQ</div>
+      <div class="brand-name">Investor<br />Pipeline</div>
+    </div>
+    <nav class="nav">
+      <a class="nav-link active" data-view="dashboard">Dashboard</a>
+      <a class="nav-link" data-view="properties">Properties</a>
+      <a class="nav-link" data-view="followups">Follow-ups</a>
+      <a class="nav-link" data-view="profits">Profits</a>
+    </nav>
+    <div class="sidebar-footer">Local data &middot; edit <code>data.js</code></div>
+  </aside>
+
+  <!-- Main -->
+  <main class="main">
+    <header class="topbar">
+      <div class="topbar-title">
+        <h1>Portfolio Overview</h1>
+        <p id="todayLabel" class="muted"></p>
+      </div>
+      <div class="search-wrap">
+        <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="searchInput" type="text" placeholder="Search address, city, owner, source, notes..." autocomplete="off" />
+        <span id="searchCount" class="search-count"></span>
+      </div>
+    </header>
+
+    <!-- KPI Grid -->
+    <section class="kpi-grid" id="kpiGrid"></section>
+
+    <!-- Charts Row -->
+    <section class="charts-row">
+      <div class="card chart-card">
+        <div class="card-head">
+          <h3>Deal Pipeline</h3>
+          <span class="tag">by stage</span>
+        </div>
+        <canvas id="pipelineChart" height="220"></canvas>
+      </div>
+      <div class="card chart-card">
+        <div class="card-head">
+          <h3>Profit Trend</h3>
+          <span class="tag green">realized, by month</span>
+        </div>
+        <canvas id="profitChart" height="220"></canvas>
+      </div>
+      <div class="card chart-card">
+        <div class="card-head">
+          <h3>Property Types</h3>
+          <span class="tag">active pipeline</span>
+        </div>
+        <canvas id="typeChart" height="220"></canvas>
+      </div>
+    </section>
+
+    <!-- Content Grid -->
+    <section class="content-grid">
+
+      <!-- Properties Table -->
+      <div class="card table-card">
+        <div class="card-head">
+          <h3>Properties</h3>
+          <div class="filters">
+            <div class="status-pills" id="statusPills"></div>
+            <select id="typeFilter" class="select"></select>
+          </div>
+        </div>
+        <div class="table-scroll">
+          <table id="propTable">
+            <thead>
+              <tr>
+                <th data-sort="address">Address</th>
+                <th data-sort="status">Status</th>
+                <th data-sort="propertyType">Type</th>
+                <th data-sort="source">Source</th>
+                <th data-sort="purchasePrice">Purchase</th>
+                <th data-sort="arv">ARV</th>
+                <th data-sort="estProfit">Est. Profit</th>
+                <th data-sort="roi">ROI</th>
+                <th data-sort="followUpDate">Follow-up</th>
+              </tr>
+            </thead>
+            <tbody id="propTableBody"></tbody>
+          </table>
+        </div>
+        <p id="emptyState" class="empty-state" hidden>No properties match your search/filters.</p>
+      </div>
+
+      <!-- Right Rail -->
+      <div class="right-rail">
+        <div class="card followups-card">
+          <div class="card-head">
+            <h3>Follow-ups</h3>
+            <span class="tag red" id="overdueTag"></span>
+          </div>
+          <ul id="followupList" class="followup-list"></ul>
+        </div>
+
+        <div class="card chart-card">
+          <div class="card-head">
+            <h3>Lead Sources</h3>
+            <span class="tag">where deals come from</span>
+          </div>
+          <canvas id="sourceChart" height="200"></canvas>
+        </div>
+      </div>
+
+    </section>
+  </main>
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
