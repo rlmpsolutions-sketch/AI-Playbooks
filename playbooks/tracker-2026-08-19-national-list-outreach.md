@@ -45,3 +45,15 @@ From the 13,931 records that already clear state (not IL/CA/NY) and 25+ pads:
 ## Deliverable
 
 `MHP_RV_MoveForward_Outreach_List.xlsx` — sent directly to Raimie. Includes a Summary tab with the breakdown above.
+
+
+## Workbook restructured (2026-08-19, later same day)
+
+Per Raimie's request, `MHP_RV_MoveForward_Outreach_List.xlsx` was restructured into 48 tabs for easier weekly work:
+
+- **Summary** — how-to-use guide and state breakdown
+- **This Week (Top 100)** — highest-priority 100 records, pulled from the biggest/cleanest states first (FL, TX, IN, AZ...), confirmed pad counts and Large parks prioritized within that
+- **All 7,410 - Master List** — full list, one sheet, alphabetical by state
+- **45 per-state tabs** — one per state, ordered by state volume (FL tab first), each sorted confirmed-pads-first then Large → Medium → Small
+
+Same underlying 7,410 records throughout — this is a navigation restructure, not a re-filter.
