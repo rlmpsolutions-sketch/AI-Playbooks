@@ -43,3 +43,15 @@ Retested network access -- still blocked (curl to manateepao.gov returned the sa
 Pivoted to a new Top 15 pulled from MEDIUM-tier (51-100 pads), confirmed-unit-count parks instead -- big enough to matter, small enough to likely be individually/family owned. New batch spans 5 states (FL, IN, WI) and 12 counties. Found all 12 county assessor/records sites via WebSearch. Two Wisconsin counties (Sheboygan, Columbia) did not have an obviously correct direct portal, so those rows point to a NETR Online directory page instead of a specific county site.
 
 Deliverable: `MidSize_County_Lookup_Top15.xlsx`, same format as the mega-park version (clickable county link + fill-in Owner/Sale Date columns), plus a "Why This List Instead" tab explaining the reasoning.
+
+
+## Elkhart County IN batch + REIT ownership pattern found (2026-08-19, later same day)
+
+Raimie successfully used the free MACOG Elkhart County parcel search (separate from the paywalled Beacon/Elevate system) after searching "Estates" broadly. Two findings:
+
+1. **Broadmore Estates (398 pads) is owned by UMH IN BROADMORE LLC** -- a subsidiary of UMH Properties Inc, a publicly-traded manufactured-housing REIT (NYSE: UMH). Disqualified as a lead regardless of tenure -- institutional owner. This confirms pad count alone (even mid-size, 51-150 range) does not protect against REIT ownership; UMH, Sun Communities, Equity LifeStyle (ELS), Kingsley Management, Cal-Am, and YES! Communities are known operators to watch for in owner-name results going forward.
+2. **Crystal Valley Estates (58 confirmed pads, Middlebury IN) is owned by CRYSTAL VALLEY ESTATES LLC** -- an independent-looking LLC, not a known REIT. Clears state + pads + non-institutional-owner. Still need the sale date (pending) to complete the tenure picture -- everything else about this deal (cap rate, financing) is unknown until direct contact is made, same as the rest of the national list.
+
+Built a full Elkhart County batch (18 records total from the 7,410 list) with a MACOG search link on every row, and added a "REIT/Institutional?" column to the tracking sheet template so this check happens on every future county lookup, not just Elkhart.
+
+Deliverable: , pre-filled with the Broadmore/Crystal Valley findings.
