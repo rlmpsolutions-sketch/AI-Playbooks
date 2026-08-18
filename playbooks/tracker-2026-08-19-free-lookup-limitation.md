@@ -54,4 +54,4 @@ Raimie successfully used the free MACOG Elkhart County parcel search (separate f
 
 Built a full Elkhart County batch (18 records total from the 7,410 list) with a MACOG search link on every row, and added a "REIT/Institutional?" column to the tracking sheet template so this check happens on every future county lookup, not just Elkhart.
 
-Deliverable: , pre-filled with the Broadmore/Crystal Valley findings.
+Deliverable: `Elkhart_County_IN_18.xlsx`, pre-filled with the Broadmore/Crystal Valley findings.
