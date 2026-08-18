@@ -32,3 +32,14 @@ Used `WebSearch` to identify the correct official assessor site for all 11 count
 ## Takeaway for future requests
 
 Don't propose fetching arbitrary external sites (county records, broker portals, etc.) as an automated pilot without testing first — this session's network policy makes that unavailable, and it should be assumed blocked until proven otherwise on a case-by-case basis.
+
+
+## Pivot: mega-communities were the wrong target (2026-08-19, later same day)
+
+Raimie tried the top 15 (sorted by pad count descending) and both Address and Name search failed on Colony Cove (Manatee County, 2,211 pads). Root cause: parks that size are almost always REIT-owned (Equity LifeStyle, Sun Communities, etc.), split across many sub-parcels, and registered under a corporate name -- not searchable by community name or its mailing address, and not a fit for the buy box thesis anyway (institutional owners are not motivated long-term individual sellers).
+
+Retested network access -- still blocked (curl to manateepao.gov returned the same 403 CONNECT failure as before). Confirmed persistent, not transient.
+
+Pivoted to a new Top 15 pulled from MEDIUM-tier (51-100 pads), confirmed-unit-count parks instead -- big enough to matter, small enough to likely be individually/family owned. New batch spans 5 states (FL, IN, WI) and 12 counties. Found all 12 county assessor/records sites via WebSearch. Two Wisconsin counties (Sheboygan, Columbia) did not have an obviously correct direct portal, so those rows point to a NETR Online directory page instead of a specific county site.
+
+Deliverable: , same format as the mega-park version (clickable county link + fill-in Owner/Sale Date columns), plus a "Why This List Instead" tab explaining the reasoning.
