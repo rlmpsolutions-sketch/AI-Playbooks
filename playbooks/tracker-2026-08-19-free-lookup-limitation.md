@@ -42,4 +42,4 @@ Retested network access -- still blocked (curl to manateepao.gov returned the sa
 
 Pivoted to a new Top 15 pulled from MEDIUM-tier (51-100 pads), confirmed-unit-count parks instead -- big enough to matter, small enough to likely be individually/family owned. New batch spans 5 states (FL, IN, WI) and 12 counties. Found all 12 county assessor/records sites via WebSearch. Two Wisconsin counties (Sheboygan, Columbia) did not have an obviously correct direct portal, so those rows point to a NETR Online directory page instead of a specific county site.
 
-Deliverable: , same format as the mega-park version (clickable county link + fill-in Owner/Sale Date columns), plus a "Why This List Instead" tab explaining the reasoning.
+Deliverable: `MidSize_County_Lookup_Top15.xlsx`, same format as the mega-park version (clickable county link + fill-in Owner/Sale Date columns), plus a "Why This List Instead" tab explaining the reasoning.
