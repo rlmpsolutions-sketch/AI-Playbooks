@@ -33,3 +33,13 @@
 ## Next step if broader tenure coverage is wanted
 
 To get ownership-tenure data across the full 7,410 (not just this 71-record overlap), the list would need to go through a skip-trace/property-records pull directly — this file only covers what RLM already had on hand for RV parks specifically.
+
+
+## Skip-trace upload files prepared (2026-08-19, later same day)
+
+Per Raimie's request, built two upload-ready files for whichever skip-trace service (PropStream, BatchLeads, etc.) he chooses to run:
+
+- `SkipTrace_Upload_Full_7410.xlsx` -- all 7,410 outreach records, formatted as Street Address / City / State / Zip plus reference columns (County, Business Name, Pads, Size Tier, stable Record ID for merging results back later).
+- `SkipTrace_Upload_ThisWeek_Top100.xlsx` -- same format, just the prioritized top-100 batch, for a smaller/cheaper first run.
+
+Both include an Instructions tab. Kept out of Doron's team's hands per instruction -- this is RLM sourcing data only.
