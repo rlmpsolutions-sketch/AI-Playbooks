@@ -11,6 +11,10 @@
 3. [Deal Matcher — Checklist](#deal-matcher--checklist)
 4. [Outreach Templates](#outreach-templates)
 
+**Also see** (larger, less-curated buyer sources — check these when a name or asset type isn't in the tables below):
+- `references/owners-club-buybox-list.md` — 225 buyers with stated buy-box criteria, pulled from the SubTo Owners Club 2025/26 list. Community-shared data; keep in-house, don't redistribute outside RLM.
+- `references/state-to-state-prospect-index.md` — 50-name raw prospect index (name + city/state + LinkedIn only, no buy-box criteria, no skiptrace PII kept).
+
 ---
 
 ## RV Park & Mobile Home Park Buyers
