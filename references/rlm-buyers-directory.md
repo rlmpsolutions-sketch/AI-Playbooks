@@ -47,6 +47,7 @@
 | Io Sunwoo | blinq.me/ljwKYVXmdXv8 | SFR / Multifamily | CA (Orange, LA, Ventura, San Diego, Riverside, Sacramento) | — |
 | Jason Doctor | blinq.me/85DVpkN1HYCM | Multifamily / Hotels / Commercial | Various | 20–120 units / 30–100 rooms |
 | Judith Rosenberg | blinq.me/raQhwiBuYpK3KltLNyTr | 2–10 Units / ADU | Cleveland, OH | Rehab, Section 8, ADU potential |
+| Melissa Bailey | Contact TBD | Multifamily — Morby Method, value-add | Atlanta GA, Dallas/DFW TX, NC metro markets | 50–150 units, Class B/B-, seller finance/SubTo, must cash flow day 1, clear refi potential in 3–5 yrs |
 | Lori McLellan | — | SFH / Creative | TX, AR, AL, GA, NC, FL | 1985+, 3bd/2ba / Open to creative |
 | Nancee Heckel | blinq.me/VlmZXqsEWn25QYMD43tu | Co-Living / Multifamily | Various | Creative finance |
 | Nick Munoz | blinq.me/ub9yCSDTz6jc | SFH | Various | 3bd/2ba, 1200+ sqft, 1960+ / Off-market, vacant |
