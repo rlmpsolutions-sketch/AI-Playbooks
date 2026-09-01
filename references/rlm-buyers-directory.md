@@ -23,6 +23,7 @@
 | Becky Plaza Peace | blinq.me/N1isFLm834i9 | Western US (HI,WA,OR,CA,NV,AZ,NM,ID,UT,CO,WY,MT,MO,IL) | 15+ acres, 50+ pads | — | — |
 | Doron Levi | doronlevi.io/real-estate-deals / (267) 612-3288 | Anywhere except IL, CA, NY | 25+ pads | 8%+ cap | YES — REQUIRED |
 | Jennifer Breitbach | blinq.me/VFmZXqsEWn25QYMD43tu | MT, N. Idaho, WY, CO, UT, TN, Carolinas | — | — | — |
+| Lance Riggen | lance@texasbnh.com — Texas Buy-N-Hold'Em LLC / RV Park Blueprint (Onyx Investing Group, with Jessie Riggen) | GA confirmed interest (Metter GA 125-pad deal, 2025); broader region unconfirmed | Unconfirmed — pad minimum not yet established | Unconfirmed | YES — asks about creative structures (SubTo/Morby) on every deal so far |
 | Nedra Bobo-Boyles | blinq.me/2fOnECzAhUxd | Various | — | — | — |
 | Tyler Ware | blinq.me/MHPtylerware | 40-pad min: Western US; Carolinas/TN/TX/FL preferred | 40+ pads, mix POH/TOH | 5-yr hold, cash flow | — |
 
@@ -46,6 +47,7 @@
 | Io Sunwoo | blinq.me/ljwKYVXmdXv8 | SFR / Multifamily | CA (Orange, LA, Ventura, San Diego, Riverside, Sacramento) | — |
 | Jason Doctor | blinq.me/85DVpkN1HYCM | Multifamily / Hotels / Commercial | Various | 20–120 units / 30–100 rooms |
 | Judith Rosenberg | blinq.me/raQhwiBuYpK3KltLNyTr | 2–10 Units / ADU | Cleveland, OH | Rehab, Section 8, ADU potential |
+| Melissa Bailey | Contact TBD | Multifamily — Morby Method, value-add | Atlanta GA, Dallas/DFW TX, NC metro markets | 50–150 units, Class B/B-, seller finance/SubTo, must cash flow day 1, clear refi potential in 3–5 yrs |
 | Lori McLellan | — | SFH / Creative | TX, AR, AL, GA, NC, FL | 1985+, 3bd/2ba / Open to creative |
 | Nancee Heckel | blinq.me/VlmZXqsEWn25QYMD43tu | Co-Living / Multifamily | Various | Creative finance |
 | Nick Munoz | blinq.me/ub9yCSDTz6jc | SFH | Various | 3bd/2ba, 1200+ sqft, 1960+ / Off-market, vacant |
@@ -68,6 +70,9 @@ When matching an RV Park deal to buyers, confirm all of the following:
 - [ ] Confirm property type matches (transient / long-term / year-round)
 - [ ] Gather T12 financials, rent roll, and aerial photos before submitting
 - [ ] Submit to multiple buyers simultaneously — deals move fast
+- [ ] Consider Lance Riggen alongside Doron on RV park deals, especially anything with creative financing already confirmed — his specific buy box (pad minimum, cap, states) is still unconfirmed, so treat every match as tentative until he confirms fit
+
+**Watching:** "Lookout Mountain RV Park" — referenced in Lance/Jessie Riggen's RV Park Blueprint training (live weekly, Saturdays) as a deal-structure/equity opportunity example. Not yet screened against the buy box — no address, pads, price, or cap rate on file. Follow up if more detail surfaces.
 
 ---
 
